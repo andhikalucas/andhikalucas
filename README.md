@@ -6,7 +6,7 @@ I’m passionate about building intuitive, seamless, and aesthetic screens or de
 
 - Strong focus on UI/UX design, frontend design, and mobile development.
 - Currently learning Flutter based mobile development and modern AI workflows in UX Design and Frontend Development.
-- 🔭 I’m currently working on coding projects that enhance my skills in Python, Java, C++, C, and JavaScript.
+- Working on UI/UX Design, UX Engineering, Software Development, Mobile Development & QA Testing @ My current job
 
 <br>
 
